@@ -9,7 +9,7 @@ Beta Users: `1.0.2`
 
 ### First Steps - Bug Report
 
-1. Remove all other mods and clients, unless the issue is with compatiability with another client. In that case, remove all mods except the two which are conflicting.
+1. Make sure that this issue happens when using RusherHack standalone, if it does then you should open an issue. If the issue only happens when another mod is installed, ask in the Discord server and I will inform you if you should open an issue.
 2. Ensure you are on the latest version of RusherHack (and the other mod, if applicable).
 3. Collect detailed steps to reproduce the bug.
 4. Report the bug with an accurate and helpful title and description.
