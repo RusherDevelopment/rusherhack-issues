@@ -29,3 +29,6 @@ This is not a bug. Do not report this here. Ask a support member in the RusherHa
 
 *I have an issue when using \[rusher module\] with \[third-party module\]*  
 This is not officially supported. If you would expect these two modules to work together reasonably OR is a major issue, please report it. If you are unsure, contact a support member.
+
+*My HUD is gray in 2b2t queue.*
+Turn off fast render in Optifine. This issue may be removed in the future.
