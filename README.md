@@ -2,10 +2,9 @@
   <p>
     <img src="https://rusherhack.org/images/rh.png">
   </p>
+  <h1>RusherHack Issues</h1>
+  <em>Public repository for reporting issues and suggestions for RusherHack Player Assistance Utility Mod (https://rusherhack.org) in an efficient and organized manner.</em>
 </div>
-
-# rusherhack-issues
-Public repository for reporting issues and suggestions for RusherHack Player Assistance Utility Mod (https://rusherhack.org) in an efficient and organized manner.  
 
 ### Version Info
 **Please ensure that you are on the latest version before reporting a bug! Version info is below.**
