@@ -1,11 +1,20 @@
+<div align="center">
+  <p>
+    <img src="https://rusherhack.org/images/rh.png">
+  </p>
+</div>
+
 # rusherhack-issues
 Public repository for reporting issues and suggestions for RusherHack Player Assistance Utility Mod (https://rusherhack.org) in an efficient and organized manner.  
 
 ### Version Info
-**Please ensure that you are on the latest version before reporting a bug! Version info is below.**  
-Normal Users: `1.0.2`  
-Plus Users: `1.0.2`  
-Beta Users: `1.0.2`  
+**Please ensure that you are on the latest version before reporting a bug! Version info is below.**
+
+| Group | Version |
+| ----- | ------- |
+| Normal | `1.0.2` |
+| Plus | `1.0.2` |
+| Beta | `1.0.2` |
 
 ### First Steps - Bug Report
 
