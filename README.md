@@ -1,11 +1,20 @@
-# rusherhack-issues
-Public repository for reporting issues and suggestions for RusherHack Player Assistance Utility Mod (https://rusherhack.org) in an efficient and organized manner.  
+<div align="center">
+  <p>
+    <img src="https://rusherhack.org/images/rh.png">
+  </p>
+  <h1>RusherHack Issues</h1>
+</div>
+
+Public repository for reporting issues and suggestions for RusherHack Player Assistance Utility Mod (https://rusherhack.org) in an efficient and organized manner.
 
 ### Version Info
-**Please ensure that you are on the latest version before reporting a bug! Version info is below.**  
-Normal Users: `1.0.2`  
-Plus Users: `1.0.2`  
-Beta Users: `1.0.2`  
+**Please ensure that you are on the latest version before reporting a bug! Version info is below.**
+
+| Group | Version |
+| ----- | ------- |
+| Normal | `1.0.2` |
+| Plus | `1.0.2` |
+| Beta | `1.0.2` |
 
 ### First Steps - Bug Report
 
@@ -24,11 +33,11 @@ Beta Users: `1.0.2`
 
 ### Common Issues
 
-*My game won't launch!*  
-This is not a bug. Do not report this here. Ask a support member in the RusherHack discord. You can join the Discord by opening your installer and linking your Discord username and clicking the invite link.
+- *My game won't launch!*  
+  - This is not a bug. Do not report this here. Ask a support member in the RusherHack discord. You can join the Discord by opening your installer and linking your Discord username and clicking the invite link.
 
-*I have an issue when using \[rusher module\] with \[third-party module\]*  
-This is not officially supported. If you would expect these two modules to work together reasonably OR is a major issue, please report it. If you are unsure, contact a support member.
+- *I have an issue when using \[rusher module\] with \[third-party module\]*  
+  - This is not officially supported. If you would expect these two modules to work together reasonably OR is a major issue, please report it. If you are unsure, contact a support member.
 
-*My HUD is gray in 2b2t queue.*  
-Turn off fast render in Optifine. This issue may be removed in the future.
+- *My HUD is gray in 2b2t queue.*  
+  - Turn off fast render in Optifine. This issue may be removed in the future.
