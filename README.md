@@ -14,7 +14,7 @@ Public repository for reporting issues and suggestions for RusherHack Player Ass
 | ----- | ------- |
 | Normal | `1.0.2` |
 | Plus | `1.0.2` |
-| Beta | `1.0.2` |
+| Beta | `1.1` |
 
 ### First Steps - Bug Report
 
