@@ -12,7 +12,7 @@ Public repository for reporting issues and suggestions for RusherHack Player Ass
 
 | Group | Version |
 | ----- | ------- |
-| Normal | `1.1` |
+| Normal | `1.1.1` |
 | Plus | `1.1.1` |
 | Beta | `1.1.1` |
 
