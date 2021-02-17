@@ -1,6 +1,6 @@
 <div align="center">
   <p>
-    <img src="https://rusherhack.org/images/rh.png">
+    <a href="https://rusherhack.org/" target="_blank"><img src="https://rusherhack.org/images/rh.png"></a>
   </p>
   <h1>RusherHack Issues</h1>
 </div>
