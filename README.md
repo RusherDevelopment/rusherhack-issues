@@ -1,8 +1,6 @@
 <div align="center">
-  <p>
-    <a href="https://rusherhack.org/" target="_blank"><img src="https://rusherhack.org/images/rh.png"></a>
-  </p>
-  <h1>RusherHack Issues</h1>
+    <a href="https://rusherhack.org/" target="_blank"><img height="220" src="https://rusherhack.org/images/rh.png"></a>
+    <h1>RusherHack Issues</h1>
 </div>
 
 Public repository for reporting issues and suggestions for RusherHack Player Assistance Utility Mod (https://rusherhack.org) in an efficient and organized manner.
