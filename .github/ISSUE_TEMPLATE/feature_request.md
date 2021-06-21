@@ -1,6 +1,6 @@
 ---
 name: Feature request
-about: Suggest a feature to RusherHack
+about: Suggest a feature for RusherHack
 title: "[FEATURE]"
 labels: enhancement
 assignees: ''
