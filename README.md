@@ -10,7 +10,7 @@ Public repository for reporting issues and suggestions for [RusherHack Player As
 
 | Group | Version |
 | ----- | ------- |
-| Normal | `1.2.1` |
+| Normal | `1.2.2` |
 | Plus | `1.2.2` |
 
 ### First Steps - Bug Report
