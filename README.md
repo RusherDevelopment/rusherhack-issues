@@ -42,6 +42,7 @@ RusherHack Issues
 | **My game won't launch!** | This is **not a bug**, do not report this here. Ask a support member in the RusherHack Discord. You can join the Discord by opening your installer and linking your Discord username and clicking the invite link. |
 | **I have an issue when using `[rusher module]` with `[third-party module]`** | This is **not** officially supported. If you would expect these two modules to work together reasonably **or** is a major issue, please report it. If you are unsure, contact a support member. |
 | **My HUD is gray in 2b2t queue** | Turn off **`Fast Render`** in Optifine. This issue may be fixed in the future. |
+| **I need a HWID reset** | Ask a support member in the RusherHack Discord |
 
 [Rusher website]: https://rusherhack.org
 [new bug]: https://github.com/John200410/rusherhack-issues/issues/new?assignees=&labels=bug&template=bug_report.md&title=%5BBUG%5D+
