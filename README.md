@@ -17,7 +17,7 @@ RusherHack Issues
 | Group | Version |
 | :---: | :-----: |
 | Normal | `1.2.3` |
-| Plus | `1.2.3` |
+| Plus | `1.3.0` |
 
 ### Bug Reports
 
@@ -44,6 +44,6 @@ RusherHack Issues
 | **My HUD is gray in 2b2t queue** | Turn off **`Fast Render`** in Optifine. This issue may be fixed in the future. |
 | **I need a HWID reset** | Ask a support member in the RusherHack Discord |
 
-[Rusher website]: https://rusherhack.org
+[RusherHack website]: https://rusherhack.org
 [new bug]: https://github.com/John200410/rusherhack-issues/issues/new?assignees=&labels=bug&template=bug_report.md&title=%5BBUG%5D+
 [new suggestion]: https://github.com/John200410/rusherhack-issues/issues/new?assignees=&labels=enhancement&template=feature_request.md&title=%5BFEATURE%5D+
