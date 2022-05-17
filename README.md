@@ -5,7 +5,7 @@
 RusherHack Issues
 ===
 
-*Public repository for reporting issues and suggestions for [RusherHack Player Assistance Utility Mod][Rusher website] in an efficient and organized manner.*
+*Public repository for reporting issues and suggestions for [RusherHack Player Assistance Utility Mod](https://rusherhack.org) in an efficient and organized manner.*
 
 </div>
 
