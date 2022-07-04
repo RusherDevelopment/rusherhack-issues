@@ -16,7 +16,7 @@ RusherHack Issues
 
 | Group | Version |
 | :---: | :-----: |
-| Normal | `1.2.3` |
+| Normal | `1.3` |
 | Plus | `1.3` |
 
 ### Bug Reports
