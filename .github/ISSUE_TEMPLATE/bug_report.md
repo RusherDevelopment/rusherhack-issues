@@ -14,7 +14,7 @@ A clear and concise description of what the bug is.
 Steps to reproduce the behavior:
 
 **Other mods**
-List other forge mods you are using (if any):
+List other mods you are using (if any):
 
 **Expected behavior**
 A clear and concise description of what you expected to happen.
