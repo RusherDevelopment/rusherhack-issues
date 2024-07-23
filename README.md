@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://rusherhack.org/" target="_blank"><img class="inline lg_w-auto lg_h-12 w-2/3" src="https://rusherhack.org/assets/rusherhack-logo-long.png"></a>
+<a href="https://rusherhack.org/" target="_blank"><img src="https://rusherhack.org/assets/rusherhack-logo-long.png"></a>
 
 RusherHack Issues
 ===
