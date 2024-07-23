@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://rusherhack.org/" target="_blank"><img height="220" src="https://rusherhack.org/images/rh.png"></a>
+<a href="https://rusherhack.org/" target="_blank"><img height="220" src="https://rusherhack.org/assets/rusherhack-logo-long.png"></a>
 
 RusherHack Issues
 ===
