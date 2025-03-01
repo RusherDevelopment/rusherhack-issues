@@ -1,7 +1,7 @@
 <div align="center">
 <a href="https://rusherhack.org/" target="_blank"><img src="https://rusherhack.org/assets/rusherhack-logo-long.png"></a>
 
-RusherHack Issues
+Issues & Suggestions
 ===
 
 *Public repository for reporting issues and suggestions for [RusherHack Player Assistance Utility Mod][RusherHack website] in an efficient and organized manner.*
