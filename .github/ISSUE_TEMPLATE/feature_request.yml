@@ -1,5 +1,5 @@
-name: Feature request
-description: Suggest a feature for RusherHack
+name: Feature Request
+description: Suggest a feature to be added to RusherHack
 title: "[FEATURE] "
 labels: ["enhancement"]
 
@@ -7,26 +7,19 @@ body:
   - type: textarea
     id: description
     attributes:
-      label: Feature request
-      description: What feature would you like to be added?
-      placeholder: Describe the feature in detail...
+      label: Description
+      description: Describe the feature you would like to see added in detail
     validations:
       required: true
-
-  - type: textarea
-    id: related
-    attributes:
-      label: Relate Issue
-      description: Is your feature request related to a problem?
 
   - type: upload
     id: media
     attributes:
-      label: Upload media
-      description: If applicable, add media to help explain your feature request.
+      label: Media
+      description: If applicable, add a screenshot or video to help explain your feature request.
 
   - type: textarea
     id: additional
     attributes:
-      label: Additional context
+      label: Additional Context
       description: Add any other context about the problem here.
