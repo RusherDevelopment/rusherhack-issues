@@ -1,5 +1,5 @@
-name: Bug report
-description: Create a report to help us improve
+name: Bug Report
+description: Report a bug that you have found in RusherHack
 title: "[BUG] "
 labels: ["bug"]
 
@@ -7,7 +7,7 @@ body:
   - type: textarea
     id: description
     attributes:
-      label: Bug description
+      label: Bug Description
       description: A clear and concise description of what the bug is.
     validations:
       required: true
@@ -16,7 +16,7 @@ body:
     id: version
     attributes:
       label: Version
-      description: What versions of Minecraft does this issue affect?
+      description: What version(s) of Minecraft did you encounter this issue on?
       multiple: true
       options:
         - 1.21.11
@@ -32,30 +32,24 @@ body:
   - type: textarea
     id: reproduce
     attributes:
-      label: Steps to reproduce
+      label: Steps to Reproduce
       description: Steps to reproduce the behavior.
-
-  - type: textarea
-    id: expected
-    attributes:
-      label: Expected behavior
-      description: What you expected to happen.
 
   - type: textarea
     id: mods
     attributes:
-      label: Other Mods installed
-      description: Please list all other mods installed
+      label: Other Mods
+      description: Please list all other Fabric mods installed
       render: shell
 
   - type: upload
     id: media
     attributes:
-      label: Upload media
-      description: If applicable, add media to help explain your problem.
+      label: Media
+      description: If applicable, add a screenshot or video to help explain your problem.
 
   - type: textarea
     id: additional
     attributes:
-      label: Additional context
+      label: Additional Context
       description: Add any other context about the problem here.
