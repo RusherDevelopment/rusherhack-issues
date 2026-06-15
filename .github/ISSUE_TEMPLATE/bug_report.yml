@@ -15,7 +15,7 @@ body:
   - type: dropdown
     id: version
     attributes:
-      label: Version
+      label: Minecraft Version
       description: What version(s) of Minecraft did you encounter this issue on?
       multiple: true
       options:
